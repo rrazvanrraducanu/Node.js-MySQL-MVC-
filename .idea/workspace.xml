@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd2a5bb9-d231-427f-8665-c17df25c2027" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jmdQQtFHGGeTbHhqtavKSTSnEg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../p2" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Razvan_user\WebstormProjects\P6" />
+      <recent name="C:\Users\Razvan_user\WebstormProjects\P6\routes" />
+      <recent name="C:\Users\Razvan_user\WebstormProjects\P6\views" />
+      <recent name="C:\Users\Razvan_user\WebstormProjects\P6\controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd2a5bb9-d231-427f-8665-c17df25c2027" name="Default Changelist" comment="" />
+      <created>1604413184917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604413184917</updated>
+      <workItem from="1604413186022" duration="6454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="35" key="FileChooserDialogImpl" timestamp="1604467282881">
+      <screen x="0" y="0" width="1280" height="579" />
+    </state>
+    <state x="421" y="35" key="FileChooserDialogImpl/0.0.1280.579@0.0.1280.579" timestamp="1604467282881" />
+    <state width="1237" height="114" key="GridCell.Tab.0.bottom" timestamp="1604467285849">
+      <screen x="0" y="0" width="1280" height="579" />
+    </state>
+    <state width="1237" height="114" key="GridCell.Tab.0.bottom/0.0.1280.579@0.0.1280.579" timestamp="1604467285849" />
+    <state width="1237" height="114" key="GridCell.Tab.0.center" timestamp="1604467285849">
+      <screen x="0" y="0" width="1280" height="579" />
+    </state>
+    <state width="1237" height="114" key="GridCell.Tab.0.center/0.0.1280.579@0.0.1280.579" timestamp="1604467285849" />
+    <state width="1237" height="114" key="GridCell.Tab.0.left" timestamp="1604467285849">
+      <screen x="0" y="0" width="1280" height="579" />
+    </state>
+    <state width="1237" height="114" key="GridCell.Tab.0.left/0.0.1280.579@0.0.1280.579" timestamp="1604467285849" />
+    <state width="1237" height="114" key="GridCell.Tab.0.right" timestamp="1604467285849">
+      <screen x="0" y="0" width="1280" height="579" />
+    </state>
+    <state width="1237" height="114" key="GridCell.Tab.0.right/0.0.1280.579@0.0.1280.579" timestamp="1604467285849" />
+  </component>
+</project>
